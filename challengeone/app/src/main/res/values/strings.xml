@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">challengeone</string>
+    <string name="register">Register</string>
+    <string name="last_name">Last name</string>
+    <string name="email_address">Email address</string>
+    <string name="first_name">First name</string>
+    <string name="email">Email</string>
+    <string name="last_name1">Last name</string>
+    <string name="first_name1">First name</string>
+</resources>
